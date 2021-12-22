@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Añadir a carrito de compras" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-22T00:16:57" hostname="22LAP5CD1346NNV" time="16.573">
+  <properties/>
+  <testcase name="el usuario añade productos al carrito de compras" classname="Añadir a carrito de compras" time="16.573"/>
+  <system-out><![CDATA[19:16:58.165 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+19:16:58.165 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+19:17:06.183 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+19:17:06.183 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+19:17:06.637 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Repositories\dojo\cucumberFalabella\target\site\serenity\cf2814b7cd7dcd341a97f50e80613623544f19a84f21dd34c204b8a515861c02.png
+19:17:12.288 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Repositories\dojo\cucumberFalabella\target\site\serenity\46ee8a3921c9785b5f6c6f8a128febff0da4b018012b98efcefd21fa11a9f7ec.png
+19:17:12.294 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-6661074071593471957
+19:17:12.295 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Repositories\dojo\cucumberFalabella\target\site\serenity\46ee8a3921c9785b5f6c6f8a128febff0da4b018012b98efcefd21fa11a9f7ec.png
+19:17:12.667 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Repositories\dojo\cucumberFalabella\target\site\serenity\c6bc8b73c3ee47168c31fa64d6b52d9828382dc79c2be85f797270a80845ffde.png
+19:17:12.669 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3973415025558358864
+19:17:12.669 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Repositories\dojo\cucumberFalabella\target\site\serenity\c6bc8b73c3ee47168c31fa64d6b52d9828382dc79c2be85f797270a80845ffde.png
+19:17:14.138 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: el usuario añade productos al carrito de compras
+----------------------------------------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[dic 21, 2021 7:16:57 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 19690
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 21, 2021 7:17:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
